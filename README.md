@@ -44,3 +44,7 @@ Si no tienes una computadora a la mano, tambien puedes ejecutar este codigo desd
 ### 🛠️ Tecnologías Utilizadas
 * **Python 3:** Logica principal y control de flujo
 * **JSON(Libreria estandar):** Para la serializacion y persistencia de datos
+
+👨‍💻 Autor
+Miguel - Miguelit000
+No IA
